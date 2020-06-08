@@ -1,0 +1,15 @@
+.card{
+    padding: 20px;
+    min-height: 200px;
+    background: white;
+    box-shadow: 1px 1px 5px gray;
+    border-radius: 5px;
+}
+
+.title{
+    padding: 5px;
+}
+
+.text-content{
+    padding: 5px;
+}

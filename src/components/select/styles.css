@@ -1,0 +1,11 @@
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: rgba(255, 255, 255, 0.76);
+    border-radius: 5px;
+    border: 1px solid rgb(189, 185, 185);
+    padding: 10px 20px;
+    font-size: 15px;
+    color: #6C6C80;
+  }
